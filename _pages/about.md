@@ -36,7 +36,8 @@ I am a Master's student in Artificial Intelligence at Zhejiang University's Coll
 
 Github Repository: <a href='https://github.com/Thoams0211/TermGPT'><strong><span id='total_cit'>https://github.com/Thoams0211/TermGPT</span></strong></a>
 
-</div><div>
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
