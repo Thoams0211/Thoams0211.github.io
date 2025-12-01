@@ -32,9 +32,15 @@ I am a Master's student in Artificial Intelligence at Zhejiang University's Coll
 
 **Yidan Sun**, Mengying Zhu, Feiyue Chen, et al.
 
+*A terminology-aware fine-tuning framework*
+
+Github Repository: <a href='https://github.com/Thoams0211/TermGPT'><strong><span id='total_cit'>https://github.com/Thoams0211/TermGPT</span></strong></a>
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
 
 # 📖 Educations
 - *2025.09 - Now*, Zhejiang University, Master of Software Engineering. 

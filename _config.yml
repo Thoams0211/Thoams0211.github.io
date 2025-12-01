@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yidan Sun"
-description              : "Yidan Sun Homepage"
+description              : ""
 repository               : "Thoams0211/Thoams0211.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yidan Sun"
   avatar           : "images/avatar.png"
-  bio              : "Yidan Sun Homepage"
+  bio              : "Master Student of Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Thoams0211/Thoams0211"
   google_plus      :
   keybase          :
   instagram        :
