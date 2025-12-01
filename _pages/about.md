@@ -28,13 +28,15 @@ I am a Master's student in Artificial Intelligence at Zhejiang University's Coll
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/TermGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domains](https://arxiv.org/html/2511.09854v1)
+<a href='https://arxiv.org/html/2511.09854v1'><strong><span id='total_cit'>TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domains</span></strong></a>
 
 **Yidan Sun**, Mengying Zhu, Feiyue Chen, et al.
 
 *A terminology-aware fine-tuning framework*
 
 Github Repository: <a href='https://github.com/Thoams0211/TermGPT'><strong><span id='total_cit'>https://github.com/Thoams0211/TermGPT</span></strong></a>
+
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
